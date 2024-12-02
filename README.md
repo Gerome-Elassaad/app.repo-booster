@@ -1,11 +1,11 @@
 ![social-card](https://github.com/user-attachments/assets/87624fea-0f25-40b0-8100-fbe2571f5301)
 
 <p align="center">
-  <a href="https://ui.nuxt.com/pro">
+  <a href="https://repo-booster.com/">
     <img src="https://img.shields.io/badge/Made%20with-Nuxt%20UI%20Pro-00DC82?logo=nuxt.js&labelColor=020420" alt="Powered By Nuxt">
   </a>
-  <a href="https://app.netlify.com/sites/repo-booster/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/fe8e23bd-4d21-4549-98e9-08ae542dc2fc/deploy-status" alt="Netlify Status">
+  <a href="https://app.repo-booster.com">
+    <img src="https://api.netlify.com/api/v1/badges/1a0b5cae-af4d-4761-a5b1-6501af1f24ff/deploy-status">
   </a>
 </p>
 
